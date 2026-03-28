@@ -1,0 +1,11 @@
+.clock
+{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height: 100vh;
+    background: rgb(33, 31, 31);
+    color: white;
+    font-family:'Times New Roman', Times, s;
+    font-size: 5.2rem;
+    }
